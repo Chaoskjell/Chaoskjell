@@ -34,7 +34,7 @@
 ### 🎯 Was ich mit den Programmen mache:
 - 🐍 **Python:** Kann Sachen automatisieren und simulieren
 - 🎨 **Blender/FreeCAD:** Scharfkantiges Zeug ist für Anfänger
-- 🎮 **Godot:** Game Dev ja, Knöpfe drücken ja
+- 🎮 **Godot:** Game Dev nein, Knöpfe drücken ja
 - 📝 **SQLite:** Warum muss es Datenbanken geben?
 - ⚡ **Arduino:** Der Grund, warum ich Elektrotechniker bemitleide
 - 🔧 **C:** Warum gibt es Fehler, wenn nichts da steht? 😢
