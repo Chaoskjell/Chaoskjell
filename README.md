@@ -40,19 +40,12 @@
 <br clear="both">
 
 ### 🎯 Meine Superkräfte:
-- 🐍 **Python:** Kann Sachen automatisieren (auch mein Leben versucht zu automatisieren)
-- 🎨 **Blender:** Macht 3D Zeug (Renderzeit = Kaffee Zeit ☕)
-- 🎮 **Godot:** Game Dev (trotzdem verliere ich noch gegen eigene Spiele 💀)
-- 📝 **SQLite:** Ich liebe Daten (besonders wenn sie nicht korrupt sind)
-- ⚡ **Arduino:** Der Grund, warum meine Wohnung blinkt 💡
-- 🔧 **C:** Ein alter Freund, der mich regelmäßig peinigt
-
-### 📊 GitHub Stats (oder warum ich zu viel Zeit hier verbringe):
-```
-git status:  unstable
-git commit: "fixed bug, broke 3 others" 
-Produktivität: ~~100%~~ **50% Debugging, 50% Googlen** 🔍
-```
+- 🐍 **Python:** Kann Sachen automatisieren und Simulieren 
+- 🎨 **Blender/FreeCAD:** Schlarf ist für Anfenger
+- 🎮 **Godot:** Game Dev nein Knöpfe drükenn ja
+- 📝 **SQLite:** Warum mus es Daten Banken geben 
+- ⚡ **Arduino:** Der Grund, warum ich Etechniker Bemitleide 
+- 🔧 **C:** Warum gibt es fehler wen nichts da steht qwq
 
 <br clear="both">
 
