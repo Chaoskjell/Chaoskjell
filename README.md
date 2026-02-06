@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="39" alt="sqlite logo"  />
 </div>
 
-### 🎯 Meine Superkräfte:
+### 🎯 Was ich mit den Programmen mache:
 - 🐍 **Python:** Kann Sachen automatisieren und simulieren
 - 🎨 **Blender/FreeCAD:** Scharfkantiges Zeug ist für Anfänger
 - 🎮 **Godot:** Game Dev ja, Knöpfe drücken ja
