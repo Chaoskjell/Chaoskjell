@@ -31,14 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="39" alt="sqlite logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-> ✨ **Fun Fact:** Ich benutze diese 8 Tools weil mein Code nicht von alleine läuft (noch nicht) 🤷
-
-<br clear="both">
-
 ### 🎯 Meine Superkräfte:
 - 🐍 **Python:** Kann Sachen automatisieren und simulieren
 - 🎨 **Blender/FreeCAD:** Scharfkantiges Zeug ist für Anfänger
