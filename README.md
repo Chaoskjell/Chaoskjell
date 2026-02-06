@@ -56,6 +56,8 @@ Produktivität: ~~100%~~ **50% Debugging, 50% Googlen** 🔍
 
 <br clear="both">
 
+<img align="left" height="155" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRocmdxanRtNWFvcWJ2NWlsOW00bHp3c2p2dW00MjNvb3dhNmlqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ACeIDlMpgc4yOf1Lyt/giphy.gif"  />
+
 ###
 
 <br clear="both">
