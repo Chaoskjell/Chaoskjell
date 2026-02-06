@@ -40,12 +40,12 @@
 <br clear="both">
 
 ### 🎯 Meine Superkräfte:
-- 🐍 **Python:** Kann Sachen automatisieren und Simulieren 
-- 🎨 **Blender/FreeCAD:** Schlarf ist für Anfenger
-- 🎮 **Godot:** Game Dev nein Knöpfe drükenn ja
-- 📝 **SQLite:** Warum mus es Daten Banken geben 
-- ⚡ **Arduino:** Der Grund, warum ich Etechniker Bemitleide 
-- 🔧 **C:** Warum gibt es fehler wen nichts da steht qwq
+- 🐍 **Python:** Kann Sachen automatisieren und simulieren
+- 🎨 **Blender/FreeCAD:** Scharfkantiges Zeug ist für Anfänger
+- 🎮 **Godot:** Game Dev ja, Knöpfe drücken ja
+- 📝 **SQLite:** Warum muss es Datenbanken geben?
+- ⚡ **Arduino:** Der Grund, warum ich Elektrotechniker bemitleide
+- 🔧 **C:** Warum gibt es Fehler, wenn nichts da steht? 😢
 
 <br clear="both">
 
@@ -53,8 +53,7 @@
 
 ###
 
-<br clear="both">
-
+### 🔗 Wo du mich findest:
 <div align="left">
   <a href="https://www.linkedin.com/in/kjell-undefined-0485343ab/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo - wo ich so tue als würde ich ernst arbeiten"  />
