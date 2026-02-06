@@ -6,7 +6,8 @@
 
 ###
 
-<h1 align="center">Hi!</h1>
+<h1 align="center">🚀 Ey, ich bin's!</h1>
+<h3 align="center"><i>Ein Mensch, der Code schreibt (und manchmal auch debuggt) 👨‍💻</i></h3>
 
 ###
 
@@ -34,7 +35,26 @@
 
 <br clear="both">
 
-<img align="left" height="155" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRocmdxanRtNWFvcWJ2NWlsOW00bHp3c2p2dW00MjNvb3dhNmlqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ACeIDlMpgc4yOf1Lyt/giphy.gif"  />
+> ✨ **Fun Fact:** Ich benutze diese 8 Tools weil mein Code nicht von alleine läuft (noch nicht) 🤷
+
+<br clear="both">
+
+### 🎯 Meine Superkräfte:
+- 🐍 **Python:** Kann Sachen automatisieren (auch mein Leben versucht zu automatisieren)
+- 🎨 **Blender:** Macht 3D Zeug (Renderzeit = Kaffee Zeit ☕)
+- 🎮 **Godot:** Game Dev (trotzdem verliere ich noch gegen eigene Spiele 💀)
+- 📝 **SQLite:** Ich liebe Daten (besonders wenn sie nicht korrupt sind)
+- ⚡ **Arduino:** Der Grund, warum meine Wohnung blinkt 💡
+- 🔧 **C:** Ein alter Freund, der mich regelmäßig peinigt
+
+### 📊 GitHub Stats (oder warum ich zu viel Zeit hier verbringe):
+```
+git status:  unstable
+git commit: "fixed bug, broke 3 others" 
+Produktivität: ~~100%~~ **50% Debugging, 50% Googlen** 🔍
+```
+
+<br clear="both">
 
 ###
 
@@ -42,10 +62,10 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kjell-undefined-0485343ab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo - wo ich so tue als würde ich ernst arbeiten"  />
   </a>
   <a href="https://www.youtube.com/@chaoskjell" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="28" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="28" alt="youtube logo - wo meine Projekte zu sehen sind (Erfolgsquote: 50%)"  />
   </a>
 </div>
 
