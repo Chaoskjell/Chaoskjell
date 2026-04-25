@@ -31,10 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="39" alt="sqlite logo"  />
 </div>
 
-### 🎯 Was ich mit den Programmen mache:
+### Was ich mit den Programmen mache:
 - 🐍 **Python:** Kann Sachen automatisieren und simulieren
-- 🎨 **Blender/FreeCAD:** Scharfkantiges Zeug ist für Anfänger
-- 🎮 **Godot:** Game Dev nein, Knöpfe drücken ja
+- 🎨 **Blender/FreeCAD:** funktioniertes ja sieht es gut aus nein 
+- 🎮 **Godot:** Game Dev ja, Knöpfe drücken ja
 - 📝 **SQLite:** Warum muss es Datenbanken geben?
 - ⚡ **Arduino:** Der Grund, warum ich Elektrotechniker bemitleide
 - 🔧 **C:** Warum gibt es Fehler, wenn nichts da steht? 😢
