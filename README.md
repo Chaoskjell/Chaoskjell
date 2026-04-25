@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Hi</h1>
-<h3 align="center"><i>Ein Idiot, der Code schreibt und manchmal auch debuggt 👨‍💻</i></h3>
+<h3 align="center"><i>Ein Idiot der Code schreibt der manchmal auch funktioniert </i></h3>
 
 ###
 
