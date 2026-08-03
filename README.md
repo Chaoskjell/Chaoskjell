@@ -47,10 +47,8 @@
 
 ### 🔗 Wo du mich findest:
 <div align="left">
-  <a href="https://www.linkedin.com/in/kjell-undefined-0485343ab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="28" alt="linkedin logo - wo ich so tue als würde ich ernst arbeiten"  />
-  </a>
-  <a href="https://www.youtube.com/@chaoskjell" target="_blank">
+  <a
+  href="https://www.youtube.com/@chaoskjell"     target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="28" alt="youtube logo - wo meine Projekte zu sehen sind (Erfolgsquote: 50%)"  />
   </a>
 </div>
