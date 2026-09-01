@@ -10,28 +10,11 @@
 <h3 align="center"><i>Ein Idiot der Code schreibt der manchmal auch funktioniert </i></h3>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="39" alt="python logo"  />
-  <img width="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="39" alt="blender logo"  />
-  <img width="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="39" alt="godot logo"  />
-  <img width="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="39" alt="vscode logo"  />
-  <img width="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="39" alt="github logo"  />
-  <img width="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="39" alt="arduino logo"  />
-  <img width="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="c logo"  />
-  <img width="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="39" alt="c logo"  />
-  <img width="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="39" alt="sqlite logo"  />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,blender,godot,vscode,visualstudio,github,arduino,c,cs,sqlite" />
+  </a>
+</p>
 
 ### Was ich mit den Programmen mache:
 - 🐍 **Python:** Kann Sachen automatisieren und simulieren
@@ -39,7 +22,6 @@
 - 🎮 **Godot:** Game Dev ja, Knöpfe drücken ja
 - 📝 **SQLite:** Warum muss es Datenbanken geben?
 - ⚡ **Arduino:** Der Grund, warum ich Elektrotechniker bemitleide
-- 🔧 **C:** Warum gibt es Fehler, wenn nichts da steht? 😢
 
 <br clear="both">
 
